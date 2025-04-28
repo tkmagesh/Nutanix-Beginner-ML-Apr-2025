@@ -34,3 +34,11 @@ python -m ipykernel install --user --name=ML_Beginner_Apr_WS
 jupyter notebook
 ```
 
+## ML Terms
+- features, independent variables, attributes (inputs)
+- target, dependent variable (output)
+- observation (1 row)
+- samples (dataset OR collection of observations)
+- Model - encapsulates the relationship among the features and target (incase of supervised) OR among the features (incase of unsupervised)
+- ML Algorithm => creates a model by analysing the features & target
+
