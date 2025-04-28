@@ -6,9 +6,9 @@
 ## Scheduler
 | What | When |
 | ---- | ---- |
-| Commence | 9:00 AM |
-| Tea Break | 10:30 AM (20 mins) |
-| Lunch Break | 12:30 PM (1 hour) |
+| Commence | 9:30 AM |
+| Tea Break | 11:00 AM (20 mins) |
+| Lunch Break | 1:00 PM (1 hour) |
 | Tea Break | 3:00 PM (20 mins) | 
 | Wind up | 4:30 PM |
 
@@ -23,6 +23,7 @@
 ## Software Requirements
 - Python
 - Visual Studio Code
+    - Jupyter plugin (https://marketplace.visualstudio.com/items/?itemName=ms-toolsai.jupyter) (**optional**)
 
 ## Local Setup
 ```shell
@@ -32,3 +33,4 @@ pip install numpy pandas scikit-learn matplotlib seaborn ipykernel notebook
 python -m ipykernel install --user --name=ML_Beginner_Apr_WS
 jupyter notebook
 ```
+
